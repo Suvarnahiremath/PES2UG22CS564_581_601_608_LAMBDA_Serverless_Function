@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import time
 
 # API URL
-API_URL = "http://localhost:8000/api"
+API_URL = "http://localhost:8501/api"
 
 st.set_page_config(
     page_title="Serverless Function Platform",
